@@ -12,5 +12,6 @@ class Album
 end
 
 album = Album.new
-album.release_date = 1991
+album.release_date = 1978
 puts #{album.release_date}
+
